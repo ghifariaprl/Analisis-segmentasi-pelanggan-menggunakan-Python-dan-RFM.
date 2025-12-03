@@ -29,7 +29,7 @@ Dataset yang digunakan adalah data transaksi *Online Retail* yang berisi transak
    - Mengelompokkan pelanggan menjadi: *Champions, Loyal Customers, Potential Loyalist, At Risk, dll*.
 
 ## 📊 Hasil Analisis (Insight)
-![Distribusi Pelanggan](images/distribution_chart.png)
+![Distribusi Pelanggan](images/distribution_chart.jpeg)
 
 Berdasarkan analisis, ditemukan beberapa wawasan kunci:
 1. **Champions (Pelanggan Sultan):** Mencakup sekitar **[XX]%** dari total pelanggan. Mereka baru saja berbelanja dan sering menghabiskan uang banyak.
