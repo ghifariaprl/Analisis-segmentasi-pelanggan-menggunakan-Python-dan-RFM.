@@ -32,7 +32,7 @@ Dataset yang digunakan adalah data transaksi *Online Retail* yang berisi transak
 ![Distribusi Pelanggan](images/distribution_chart.jpeg)
 
 Berdasarkan analisis, ditemukan beberapa wawasan kunci:
-1. **Champions (Pelanggan Sultan):** Mencakup sekitar **[XX]%** dari total pelanggan. Mereka baru saja berbelanja dan sering menghabiskan uang banyak.
+1. **Champions (Pelanggan Sultan):** Mencakup sekitar **89%** dari total pelanggan. Mereka baru saja berbelanja dan sering menghabiskan uang banyak.
 2. **At Risk (Perlu Perhatian):** Terdapat segmen besar pelanggan yang dulu sering berbelanja namun sudah lama tidak kembali.
 3. **Pareto Principle:** Sebagian kecil pelanggan loyal menyumbang kontribusi pendapatan terbesar.
 
