@@ -11,7 +11,7 @@ Saya menggunakan metode **RFM Analysis (Recency, Frequency, Monetary)** untuk me
 
 ## 📂 Dataset
 Dataset yang digunakan adalah data transaksi *Online Retail* yang berisi transaksi dari 01/12/2010 hingga 09/12/2011.
-- **Sumber:** [Tulis link Kaggle/UCI di sini atau sebut "Public Dataset"]
+- **Sumber:** https://www.kaggle.com/datasets/carrie1/ecommerce-data?resource=download
 - **Jumlah Data:** 500,000+ baris transaksi.
 
 ## 🛠️ Langkah Pengerjaan
